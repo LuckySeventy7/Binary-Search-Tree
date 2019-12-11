@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575500247 source:c:\users\sergio ruiz\documents\6to\act_arbol_edd2\main.cpp
+	<iostream>
+	"Arbol.h"
+	"stdlib.h"
+
+1575501408 source:c:\users\sergio ruiz\documents\6to\act_arbol_edd2\src\arbol.cpp
+	"Arbol.h"
+
+1575500419 c:\users\sergio ruiz\documents\6to\act_arbol_edd2\include\arbol.h
+	<string.h>
+	<iostream>
+
